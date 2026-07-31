@@ -23,7 +23,7 @@
     });
 
     // Typing Animation
-    const text = ["Web Developer", "UI/UX Designer", "Freelancer"];
+    const text = ["Cyber Security", "UI/UX Designer", "Freelancer"];
     let count = 0;
     let index = 0;
     let currentText = '';
